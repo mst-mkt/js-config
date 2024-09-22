@@ -1,0 +1,6 @@
+{
+  "name": "biome",
+  "peerDependencies": {
+    "@biomejs/biome": "^1.9.2"
+  }
+}
