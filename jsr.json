@@ -1,0 +1,10 @@
+{
+  "$schema": "https://jsr.io/schema/config-file.v1.json",
+  "name": "@mst-mkt/js-config",
+  "version": "0.0.0",
+  "author": "mst-mkt",
+  "exports": {},
+  "publish": {
+    "include": ["./packages/**/*"]
+  }
+}
