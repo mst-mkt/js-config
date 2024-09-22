@@ -1,6 +1,11 @@
 {
-	"name": "@mst-mkt/js-config",
-	"version": "0.0.0",
-	"author": "mst-mkt",
-	"scripts": {}
+  "name": "@mst-mkt/js-config",
+  "version": "0.0.0",
+  "author": "mst-mkt",
+  "scripts": {
+    "format": "biome check --write ./"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.2"
+  }
 }
