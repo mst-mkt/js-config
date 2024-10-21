@@ -28,7 +28,6 @@
       "correctness": {
         "noConstantMathMinMaxClamp": "error",
         "noInvalidNewBuiltin": "error",
-        "noUndeclaredDependencies": "warn",
         "noUndeclaredVariables": "warn",
         "noUnusedImports": "warn",
         "noUnusedFunctionParameters": "warn",
