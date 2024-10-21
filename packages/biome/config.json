@@ -64,7 +64,6 @@
             "syntax": "shorthand"
           }
         },
-        "useConsistentBuiltinInstantiation": "error",
         "useDefaultSwitchClause": "error",
         "useExplicitLengthCheck": "error",
         "useForOf": "error",
